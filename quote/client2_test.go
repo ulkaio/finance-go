@@ -1,7 +1,7 @@
 package quote
 
 import (
-	"github.com/piquette/finance-go/equity"
+	"github.com/ulkaio/finance-go/equity"
 	"testing"
 )
 

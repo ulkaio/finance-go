@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/piquette/finance-go/equity"
+	"github.com/ulkaio/finance-go/equity"
 )
 
 func main() {
